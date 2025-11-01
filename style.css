@@ -5,3 +5,22 @@
 a:hover{
     color: orange;
 }
+
+.main-menu {
+    float: right;
+}
+
+.centered-titled { 
+    text-align: center;
+}
+
+.full-width-paragraph {
+    text-align: justify; /* Wyrównanie do obu krawędzi */
+    margin-bottom: 40px;
+}
+.main-menu li {
+    display: inline-block; /* Ustawia elementy listy obok siebie */
+    margin-left: 20px; /* Odstęp między linkami */
+}
+
+
