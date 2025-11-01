@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<main>
+    <technologia id="AI001">
+        <nazwa>Sztuczna Inteligencja</nazwa>
+        <opis>Symulowanie ludzkiej inteligencji przez maszyny.</opis>
+        <zastosowanie>Uczenie maszynowe</zastosowanie>
+    </technologia>
+
+    <technologia id="SEC002">
+        <nazwa>Cyberbezpieczeństwo</nazwa>
+        <opis>Ochrona systemów i danych przed atakami.</opis>
+        <zastosowanie>Szyfrowanie</zastosowanie>
+    </technologia>
+
+    <technologia id="CLD003">
+        <nazwa>Chmura Obliczeniowa</nazwa>
+        <opis>Dostarczanie usług IT przez Internet.</opis>
+        <zastosowanie>IaaS</zastosowanie>
+    </technologia>
+
+    <technologia id="DEV004">
+        <nazwa>Internet Rzeczy (IoT)</nazwa>
+        <opis>Sieć połączonych urządzeń fizycznych.</opis>
+        <zastosowanie>Inteligentny dom</zastosowanie>
+    </technologia>
+</main>
