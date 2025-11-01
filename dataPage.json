@@ -1,0 +1,22 @@
+[
+  {
+    "nazwa": "Python",
+    "rok_powstania": 1991,
+    "jest_kompilowany": false
+  },
+  {
+    "nazwa": "Procesor Intel i9",
+    "liczba_rdzeni": 16,
+    "posiada_zintegrowana_grafike": true
+  },
+  {
+    "nazwa": "VS Code",
+    "wersja": 1.95,
+    "data_kolejnego_wydania": null
+  },
+  {
+    "nazwa": "Chmura Obliczeniowa",
+    "glowne_modele": ["IaaS", "PaaS", "SaaS"],
+    "udzial_w_rynku_proc": 34.5
+  }
+]
